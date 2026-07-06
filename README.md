@@ -340,18 +340,17 @@ Expected Response
 ---
 
 # Screenshots
+<img width="1917" height="457" alt="image" src="https://github.com/user-attachments/assets/3e4b25ae-6863-4a58-9615-8e21ed365e75" />
 
-Include:
+<img width="1890" height="796" alt="image" src="https://github.com/user-attachments/assets/167652e8-9817-4ba7-bf8d-fe72279cda69" />
 
-- AWS EC2
-- Amazon RDS
-- Jenkins Dashboard
-- CRUD Jenkins Pipeline
-- Successful Build
-- PM2 Status
-- GitHub Repository
-- GitHub Webhook
-- API Response
+<img width="1882" height="617" alt="image" src="https://github.com/user-attachments/assets/76b14b17-9442-4142-83a6-12ec9cf2dabe" />
+<img width="1852" height="767" alt="image" src="https://github.com/user-attachments/assets/1874d179-e569-4eac-b85a-d15ee6b7b2c6" />
+
+<img width="1337" height="821" alt="image" src="https://github.com/user-attachments/assets/83f90dcd-e6fc-4342-8c4b-9da0971da440" />
+
+<img width="1116" height="296" alt="image" src="https://github.com/user-attachments/assets/0e6171bb-0b1d-466e-870e-dd3048c6f86e" />
+
 
 ---
 
